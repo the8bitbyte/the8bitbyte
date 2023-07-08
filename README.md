@@ -1,1 +1,1 @@
-i make exploit scripts for roblox i make my scripts in a maximum of 30 mimutes
+i make exploit scripts for roblox or remix/edit ones that i found
