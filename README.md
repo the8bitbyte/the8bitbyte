@@ -1,1 +1,1 @@
-i make exploit scripts for roblox or remix/edit ones that i found
+check https://the8bitbyte.github.io/ for my info
