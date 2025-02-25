@@ -2,6 +2,7 @@
 the8bitbyte
 
 ❯ grep "^NAME=" /etc/os-release | cut -d'=' -f2 | tr -d '"'
+
 EndeavourOS
 
 ❯ echo Interests
