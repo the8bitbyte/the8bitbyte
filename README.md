@@ -1,1 +1,2 @@
-check https://the8bitbyte.github.io/ for my info
+<span style="color:red">Colored text test, i dont think this will work</span>  
+
