@@ -18,5 +18,5 @@ PING egotripping.dev (198.71.51.8) 56(84) bytes of data.
 --- egotripping.dev ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 
-[user@github.com ~/the8bitbyte]$ _
+[the8bitbyte@github.com ~]$ _
 ```
