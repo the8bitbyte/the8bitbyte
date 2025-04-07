@@ -6,7 +6,7 @@ the8bitbyte
 
 EndeavourOS
 
-❯ cat Interests
+❯ cat Interests.txt
 
 Old and retro computers
 firearms
